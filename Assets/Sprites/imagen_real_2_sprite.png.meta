@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 28d9e9575178c8e4d92fe9681ae98072
+guid: 9d35d40bcc386dd4786db9648a7eed93
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_0
+      name: imagen_real_2_sprite_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4625a5f479ac71a4292cf9d415cda5d9
-      internalID: 54044896
+      spriteID: 450b143aa429e5b46aedf009e63b32d1
+      internalID: 787412158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_1
+      name: imagen_real_2_sprite_1
       rect:
         serializedVersion: 2
         x: 1920
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dee5170d0f1e27438803a0da2f999b1
-      internalID: -1742075963
+      spriteID: ff89b09d9f3237e448f556f0d6adf272
+      internalID: -1037238621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_2
+      name: imagen_real_2_sprite_2
       rect:
         serializedVersion: 2
         x: 3840
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a288f5a3c45e8c543bba8668091e4438
-      internalID: 751789041
+      spriteID: 0580430e1cd7ae044bf8a0d4085c834d
+      internalID: 1194627477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_3
+      name: imagen_real_2_sprite_3
       rect:
         serializedVersion: 2
         x: 5760
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9223e45c8550184490b24d93f6dbac5
-      internalID: -1594767399
+      spriteID: b156d28632d7cbf44b56122716ab9bfb
+      internalID: 2025972857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_4
+      name: imagen_real_2_sprite_4
       rect:
         serializedVersion: 2
         x: 7680
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02987af0c94e8af40a35f32ff8e07c7d
-      internalID: 1026527283
+      spriteID: 4640adc9d5aa3f64facf0625869a4626
+      internalID: 1904913850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_5
+      name: imagen_real_2_sprite_5
       rect:
         serializedVersion: 2
         x: 0
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fd025c6867d92746bc483e4b4c010d8
-      internalID: -371625616
+      spriteID: fce705f6c145a7946baa31a28355e9d0
+      internalID: 656874969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_6
+      name: imagen_real_2_sprite_6
       rect:
         serializedVersion: 2
         x: 1920
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71aff78cf639ef9419e9129437fb7059
-      internalID: -1709351726
+      spriteID: 98476f09f2932e645bd5cc4f051f7a2a
+      internalID: 454183979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_7
+      name: imagen_real_2_sprite_7
       rect:
         serializedVersion: 2
         x: 3840
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbdf11597c0235649987ff53c10dd64c
-      internalID: -588032049
+      spriteID: 696046f81fadb4c458b57c8f02a851c7
+      internalID: -788245938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_8
+      name: imagen_real_2_sprite_8
       rect:
         serializedVersion: 2
         x: 5760
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23ecdf184f63b244192d97ac3ba9169e
-      internalID: 1566586808
+      spriteID: eefde138daec2f548b25f889265a6dda
+      internalID: -114684295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_9
+      name: imagen_real_2_sprite_9
       rect:
         serializedVersion: 2
         x: 7680
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15eb2eeacfe24c748be717c6da5f5408
-      internalID: 862282492
+      spriteID: 80d581a80558665469f00ce93a40196f
+      internalID: -1569310379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_10
+      name: imagen_real_2_sprite_10
       rect:
         serializedVersion: 2
         x: 0
@@ -321,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87a160b49eb235245b876567bd51eb97
-      internalID: 1129570739
+      spriteID: 0aa0e7b688e801e4483ed460459fa9a2
+      internalID: 1106335944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_11
+      name: imagen_real_2_sprite_11
       rect:
         serializedVersion: 2
         x: 1920
@@ -342,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f7056ca9bf85be4fa3a0966746ec8ec
-      internalID: 1953481311
+      spriteID: 0005cdc874a9f864bb2f364000ffdc53
+      internalID: 1603890464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_12
+      name: imagen_real_2_sprite_12
       rect:
         serializedVersion: 2
         x: 3840
@@ -363,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f35da497f090914bb373d388bc118bf
-      internalID: -1107934514
+      spriteID: 5463fae1ff50e9f49ad0cc2ce62906f6
+      internalID: 1966354669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_13
+      name: imagen_real_2_sprite_13
       rect:
         serializedVersion: 2
         x: 5760
@@ -384,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56e5dfd7b111d47439d7e5328d52ece6
-      internalID: -1831994571
+      spriteID: c69fb9fe3930e664e9e9f7fccac22363
+      internalID: 2058150197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: enfermera_en_puerta_sprite_14
+      name: imagen_real_2_sprite_14
       rect:
         serializedVersion: 2
         x: 7680
@@ -405,8 +405,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfdcc620fa8c55b42a704276222ea2a5
-      internalID: -2057842109
+      spriteID: f2cc58394b03df647ac17918691d099d
+      internalID: 1515143754
       vertices: []
       indices: 
       edges: []
@@ -422,21 +422,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      enfermera_en_puerta_sprite_0: 54044896
-      enfermera_en_puerta_sprite_1: -1742075963
-      enfermera_en_puerta_sprite_10: 1129570739
-      enfermera_en_puerta_sprite_11: 1953481311
-      enfermera_en_puerta_sprite_12: -1107934514
-      enfermera_en_puerta_sprite_13: -1831994571
-      enfermera_en_puerta_sprite_14: -2057842109
-      enfermera_en_puerta_sprite_2: 751789041
-      enfermera_en_puerta_sprite_3: -1594767399
-      enfermera_en_puerta_sprite_4: 1026527283
-      enfermera_en_puerta_sprite_5: -371625616
-      enfermera_en_puerta_sprite_6: -1709351726
-      enfermera_en_puerta_sprite_7: -588032049
-      enfermera_en_puerta_sprite_8: 1566586808
-      enfermera_en_puerta_sprite_9: 862282492
+      imagen_real_2_sprite_0: 787412158
+      imagen_real_2_sprite_1: -1037238621
+      imagen_real_2_sprite_10: 1106335944
+      imagen_real_2_sprite_11: 1603890464
+      imagen_real_2_sprite_12: 1966354669
+      imagen_real_2_sprite_13: 2058150197
+      imagen_real_2_sprite_14: 1515143754
+      imagen_real_2_sprite_2: 1194627477
+      imagen_real_2_sprite_3: 2025972857
+      imagen_real_2_sprite_4: 1904913850
+      imagen_real_2_sprite_5: 656874969
+      imagen_real_2_sprite_6: 454183979
+      imagen_real_2_sprite_7: -788245938
+      imagen_real_2_sprite_8: -114684295
+      imagen_real_2_sprite_9: -1569310379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

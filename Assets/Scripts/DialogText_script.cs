@@ -21,12 +21,41 @@ public class DialogTextAnimator : MonoBehaviour
                + "si lo que ve es real o no. \n";
 
     private string window_2 =
-              "Bien..Me alegra que estes consciente.\n"
+                "Bien..Me alegra que estes consciente.\n"
               + "Sigamos con la siguiente imagen..\n"
               + "Usted digame\n"
               + "si lo que ve es real o no. \n";
 
-   
+
+    private string window_3 =
+             "Bien.. Me alegra \n" +
+             "que estes consciente. \n" +
+             "Sigamos con la siguiente \n" +
+             "imagen..";
+
+
+    private string window_4 =
+               "No, eso definitivamente. \n"
+             + "no es real por suerte. \n"
+             + "Tomate una de las pastillas \n"
+             + "por favor, y sigamos a la siguiente imagen \n";
+
+    private string window_5 =
+           "No, eso no es real.\n"
+         + "Ademas, te estas agitando.\n"
+         + "Tus manos estan transpiradas.. \n"
+         + "Por favor, toma,otra pastilla, y sigamos con las imagenes \n";
+
+
+    private string window_6 =
+             "Bien.. Vamos Avanzando \n" +
+             "Sigamos con la siguiente \n" +
+             "imagen..";
+
+
+
+
+
     private float clearDelay = 2f; // Delay before clearing text
 
 
@@ -44,15 +73,23 @@ public class DialogTextAnimator : MonoBehaviour
         switch (window)
         {
             case "window_1":
-                DialogText = window_1;
-                Debug.Log(window_1);
+                DialogText = window_1;            
                 break;
-
             case "window_2":
-                DialogText = window_2;
-                Debug.Log(window_2);
+                DialogText = window_2;            
                 break;
-
+            case "window_3":
+                DialogText = window_3;              
+                break;
+            case "window_4":
+                DialogText = window_4;              
+                break;
+            case "window_5":
+                DialogText = window_5;             
+                break;
+            case "window_6":
+                DialogText = window_6;
+                break;
             default:
                 Debug.Log("No valid window selected");
                 break;
