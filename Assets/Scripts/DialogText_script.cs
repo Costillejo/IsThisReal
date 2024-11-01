@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using TMPro;
-using UnityEditor.PackageManager.UI;
 using UnityEngine;
 
 public class DialogTextAnimator : MonoBehaviour
@@ -9,8 +8,6 @@ public class DialogTextAnimator : MonoBehaviour
     public TextMeshProUGUI textMeshPro;
     public float delay = 0.1f;
     public string window = "";
-
-
 
 
     private string DialogText = "";
@@ -52,10 +49,6 @@ public class DialogTextAnimator : MonoBehaviour
              "Sigamos con la siguiente \n" +
              "imagen..";
 
-
-
-
-
     private float clearDelay = 2f; // Delay before clearing text
 
 
@@ -94,12 +87,7 @@ public class DialogTextAnimator : MonoBehaviour
                 Debug.Log("No valid window selected");
                 break;
         }
-        /*
-        else
-        {
-            yield return new WaitForSeconds(2); // Delay for 2 seconds
-        }
-        */
+       
 
         textMeshPro.text = "";
        
@@ -108,25 +96,7 @@ public class DialogTextAnimator : MonoBehaviour
             textMeshPro.text += letter;
             yield return new WaitForSeconds(delay);
         }
-      //  textMeshPro.text += "_"; // initial cursor
-      /*
-        if (!title) {
-            ClearText();
-            StartCoroutine(BlinkCursor()); 
-            yield return new WaitForSeconds(clearDelay);
-            DialogText = DialogTextSubtitle2;
-            foreach (char letter in DialogText.ToCharArray())
-            {
-                textMeshPro.text += letter;
-                yield return new WaitForSeconds(delay);
-            }
-              // textMeshPro.text += "_"; // initial cursor
-        } // Delay for 2 seconds
-        if (!title) {
-            yield return new WaitForSeconds(2); // Delay for 2 seconds
-            StartCoroutine(TypeText());
-        }
-      */
+     
        
     }
 

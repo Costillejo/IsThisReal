@@ -5,8 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-
-
+    private int clickCount;
+    private const string InitializedKey = "IsClickCountInitialized";
+    private const string ClickCountKey = "ClickCount";
     // Start is called before the first frame update
     public void Start()
     {
@@ -25,6 +26,15 @@ public class MainMenu : MonoBehaviour
         Debug.Log(SceneManager.GetActiveScene().buildIndex + 1);
         Debug.Log("click");
     }
+
+    public void finalScenePlayGame()
+    {
+        clickCount = 0;
+        PlayerPrefs.SetInt(ClickCountKey, clickCount);
+        PlayerPrefs.SetInt(InitializedKey, 1); // Set the initialization flag
+        SceneManager.LoadScene("Start_scene");
+    }
+
     /*
        public void gotToSettingsMenu()
     {
